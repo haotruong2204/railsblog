@@ -1,8 +1,8 @@
 # config valid for current version and patch releases of Capistrano
 lock "~> 3.18.1"
 
-set :application, "thocode"
-set :repo_url, "git@github.com:haotruong2204/thocode.git"
+set :application, "railsblog"
+set :repo_url, "git@github.com:haotruong2204/railsblog.git"
 
 
 set :rvm_type, :ubuntu
